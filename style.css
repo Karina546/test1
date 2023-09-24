@@ -1,0 +1,80 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #faf5f5;
+}
+
+.description {
+    color: rgb(0, 0, 0);
+    margin: 18px;
+    padding: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.block-projects {
+    background: rgb(190, 224, 192);
+    margin: 20px;
+    padding: 10px;
+}
+
+.block-Work-Experience {
+    background: rgb(154, 188, 194);
+    margin: 20px;
+    padding: 20px;
+}
+
+.block-Manager-Glory-New {
+    background: rgb(190, 224, 192);
+    margin: 20px;
+    padding: 20px;
+}
+.block-Manager-Glory-LLC {
+    background: rgb(154, 188, 194);
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.main-description {
+    background: rgb(154, 188, 194);
+    margin: 20px 20px 20px 10px;
+    padding: 40px 20px 10px 5px;
+}
+
+.block-Education {
+    background: rgb(190, 224, 192);
+    margin: 20px;
+    padding: 20px;
+}
+
+.aside {
+    background: #1e2939;
+    margin: 20px;
+    padding: 10px;
+}
+
+.contacts {
+    font: bold;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.skills-list {
+    color: #e4d9d9;
+}
+
+.skills {
+    font: bold;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
